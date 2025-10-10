@@ -6,7 +6,9 @@ The goal is to document my progress, keep track of the exercises, and serve as a
 ---
 
 ## 📂 Repository Structure
-- `01 - intro` 
+- `01 - intro`
+- `02 - regression`
+- `01 - classification`
 
 Each folder includes Jupyter notebooks, scripts, or notes related to the corresponding syllabus of the course.
 
