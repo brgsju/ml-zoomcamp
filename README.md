@@ -3,7 +3,7 @@
 This repository contains my solutions and practice exercises from the **Machine Learning Zoomcamp** course.  
 The goal is to document my progress, keep track of the exercises, and serve as a reference for future projects in machine learning.
 
----
+
 
 ## 📂 Repository Structure
 - `01 - intro`
