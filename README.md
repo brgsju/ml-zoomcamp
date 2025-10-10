@@ -12,7 +12,6 @@ The goal is to document my progress, keep track of the exercises, and serve as a
 
 Each folder includes Jupyter notebooks, scripts, or notes related to the corresponding syllabus of the course.
 
----
 
 ## 🚀 About the Course
 The **Machine Learning Zoomcamp** is a free, open-source course created by [DataTalksClub](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master).  
@@ -25,7 +24,7 @@ It provides a hands-on introduction to machine learning, covering:
 - Using Kubernetes for ML model serving
 - Deep learning with PyTorch and TensorFlow 
 
----
+
 
 ## 🛠️ Technologies Used
 - Python  
@@ -33,12 +32,12 @@ It provides a hands-on introduction to machine learning, covering:
 - Scikit-learn  
 - Jupyter Notebook  
 
----
+
 
 ## ✨ Goals
 - Strengthen my understanding of machine learning concepts.  
 - Practice building, training, and evaluating ML models.  
 - Develop reproducible workflows for data science projects.  
 
----
+
 👩‍💻 **Author:** Julia  
